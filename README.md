@@ -1,2 +1,2 @@
-# morfy-cms-plugins
-Morfy CMS Plugins
+#MORFY PLUGINS
+###LIST OF PLUGINS FOR MORFY CMS
