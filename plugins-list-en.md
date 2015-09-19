@@ -9,3 +9,6 @@
 | Blog pagination | This plugin adds pagination to your blog |[Download](http://forum.monstra.org/topic/520/blog-pagination/) | [nakome]() |
 | Breadcrumb Navigation | Breadcrumb Navigation plugin for Morfy |[Download](http://forum.monstra.org/topic/543/breadcrumb-navigation-plugin/) | [tovic]() |
 | Facebook Comments | Facebook Comments plugin for Morfy |[Download](http://forum.monstra.org/topic/699/facebook-comments/) | [dextra]() |
+| Less Compiler | Less Compiler plugin for Morfy |[Download](https://github.com/pafnuty/morfy-less/releases) | [pafnuty](https://github.com/pafnuty) |
+| Statistics | Show page generation statistics for Morfy |[Download](https://github.com/pafnuty/morfy-statistics/releases) | [pafnuty](https://github.com/pafnuty) |
+| Parsedown | Fastest plugin for parsing Markdown for Morfy |[Download](https://github.com/pafnuty/morfy-parsedown/releases) | [pafnuty](https://github.com/pafnuty) |
