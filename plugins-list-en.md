@@ -9,3 +9,4 @@
 | Blog pagination | This plugin adds pagination to your blog |[Download](http://forum.monstra.org/topic/520/blog-pagination/) | [nakome]() |
 | Breadcrumb Navigation | Breadcrumb Navigation plugin for Morfy |[Download](http://forum.monstra.org/topic/543/breadcrumb-navigation-plugin/) | [tovic]() |
 | Facebook Comments | Facebook Comments plugin for Morfy |[Download](http://forum.monstra.org/topic/699/facebook-comments/) | [dextra]() |
+| Statistics | Very simple plugin for show statistics page generation in the end of current page |[Download](https://github.com/pafnuty/morfy-statistics) | [pafnuty]() |
