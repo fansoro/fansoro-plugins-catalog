@@ -4,3 +4,4 @@
 | Feed | Morfy feed plugin provide simple RSS feed. |[Download](https://github.com/morfy-cms/morfy-plugin-feed) | [Awilum](https://github.com/Awilum) |
 | Sitemap | Sitemap plugin provide automatically generated XML sitemap for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-sitemap) | [Awilum](https://github.com/Awilum) |
 | Redirect | Morfy redirect plugin provide simple redirect functionality for pages. |[Download](https://github.com/morfy-cms/morfy-plugin-redirect) | [Awilum](https://github.com/Awilum) |
+| Charts | Morfy Google Charts plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-charts) | [Awilum](https://github.com/Awilum) |
