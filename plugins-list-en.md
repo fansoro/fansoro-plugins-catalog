@@ -5,3 +5,4 @@
 | Sitemap | Sitemap plugin provide automatically generated XML sitemap for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-sitemap) | [Awilum](https://github.com/Awilum) |
 | Redirect | Morfy redirect plugin provide simple redirect functionality for pages. |[Download](https://github.com/morfy-cms/morfy-plugin-redirect) | [Awilum](https://github.com/Awilum) |
 | Charts | Morfy Google Charts plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-charts) | [Awilum](https://github.com/Awilum) |
+| Less Compiler | Less Compiler plugin for Morfy |[Download](https://github.com/pafnuty/morfy-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
