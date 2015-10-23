@@ -7,3 +7,4 @@
 | Charts | Morfy Google Charts plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-charts/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Less Compiler | Less Compiler plugin for Morfy |[Download](https://github.com/pafnuty/morfy-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Disqus | Morfy Disqus Plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
+| Contact | Contact plugin for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-contact/releases/latest) | [Awilum](https://github.com/Awilum) |
