@@ -9,3 +9,5 @@
 | Disqus | Morfy Disqus Plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
 | ExtraCodes | Extra shortcodes plugin for Morfy. |[Download](https://github.com/nakome/morfy-plugins-extra) | [Nakome](https://github.com/nakome) |
 | Api | Convert pages to Json format. |[Download](https://github.com/nakome/Morfy-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
+| Asset | Asset plugin for Morfy |[Download](https://github.com/pafnuty/morfy-plugin-asset/releases/latest) | [pafnuty](https://github.com/pafnuty) |
+| Statistics | Statistics plugin for Morfy |[Download](https://github.com/pafnuty/morfy-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
