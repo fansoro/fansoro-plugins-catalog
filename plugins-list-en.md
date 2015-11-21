@@ -13,3 +13,4 @@
 | Statistics | Statistics plugin for Morfy |[Download](https://github.com/pafnuty/morfy-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Maps | Maps plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
