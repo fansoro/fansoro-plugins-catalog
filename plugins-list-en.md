@@ -14,3 +14,4 @@
 | Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Maps | Maps plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
+| Reading Time | Estimated reading time plugin for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-reading-time) | [Awilum](https://github.com/Awilum) |
