@@ -16,3 +16,4 @@
 | Maps | Maps plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Reading Time | Estimated reading time plugin for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-reading-time) | [Awilum](https://github.com/Awilum) |
 | Social Meta | Social MetaTags Generator for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-socialmeta/releases/latest) | [pafnuty](https://github.com/pafnuty) |
+| Breadcrumb | Breadcrumb Plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/releases/latest) | [pafnuty](https://github.com/pafnuty) |
