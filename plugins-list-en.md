@@ -18,3 +18,4 @@
 | Social Meta | Social MetaTags Generator for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-socialmeta/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Breadcrumb | Breadcrumb Plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Highlight | Highlight plugin for Morfy adds a powerful code highlighting functionality with Highlight.js |[Download](https://github.com/morfy-cms/morfy-plugin-highlight) | [Awilum](https://github.com/Awilum) |
+| Boilerplate | Simple Plugin Boilerplate for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/releases/latest) | [pafnuty](https://github.com/pafnuty) |
