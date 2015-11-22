@@ -20,3 +20,4 @@
 | Highlight | Highlight plugin for Morfy adds a powerful code highlighting functionality with Highlight.js |[Download](https://github.com/morfy-cms/morfy-plugin-highlight) | [Awilum](https://github.com/Awilum) |
 | Boilerplate | Simple Plugin Boilerplate for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Facebook comments | Facebook comments plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/facebook-comments) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
+| Maps directions | Maps directions plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/maps-directions) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
