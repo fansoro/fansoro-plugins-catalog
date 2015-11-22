@@ -1,6 +1,6 @@
 # MORFY PLUGINS
 
-|||||
+| Name | Description | Link | Author |
 | -----|-------------|-----|-----|
 | Maintenance | Plugin adds a splash page to your site that lets visitors know your site is down for maintenance. |[Download](https://github.com/morfy-cms/morfy-plugin-maintenance/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Feed | Morfy feed plugin provide simple RSS feed. |[Download](https://github.com/morfy-cms/morfy-plugin-feed/releases/latest) | [Awilum](https://github.com/Awilum) |
