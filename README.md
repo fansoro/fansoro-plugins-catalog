@@ -28,3 +28,4 @@
 | Qr simple | Qr simple plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/qr-simple) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Math | Math plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/math) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Spoiler | Spoiler plugin for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-spoiler/releases/latest) | [Awilum](https://github.com/Awilum) |
+| VideoJS | VideoJS plugin for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-videojs/releases/latest) | [Awilum](https://github.com/Awilum) |
