@@ -26,3 +26,4 @@
 | Weather | Weather plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/weather) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Thumb | Thumb generation plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-thumb/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Qr simple | Qr simple plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/qr-simple) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
+| Math | Math plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/math) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
