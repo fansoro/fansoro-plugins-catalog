@@ -32,3 +32,4 @@
 | Emoji :smile: | Emoji plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Google Analytics | Google Analytics plugin for Morfy |[Download](https://github.com/maxisoft-morfy-plugins/google-analytics) | [maxiCMS](https://github.com/maxicms) |
 | Page Inject | Page Inject plugin allows you to inject the page into other pages. |[Download](https://github.com/morfy-cms/morfy-plugin-page-inject) | [Awilum](https://github.com/Awilum) |
+| Snow | Snow plugin to generate snowflake for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-snow) | [Awilum](https://github.com/Awilum) |
