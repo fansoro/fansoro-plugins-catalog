@@ -30,3 +30,4 @@
 | Spoiler | Spoiler plugin for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-spoiler) | [Awilum](https://github.com/Awilum) |
 | VideoJS | VideoJS plugin for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-videojs) | [Awilum](https://github.com/Awilum) |
 | Emoji :smile: | Emoji plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji/releases/latest) | [pafnuty](https://github.com/pafnuty) |
+| Google Analytics | Google Analytics plugin for Morfy |[Download](https://github.com/maxisoft-morfy-plugins/google-analytics) | [maxiCMS](https://github.com/maxicms) |
