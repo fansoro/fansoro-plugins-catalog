@@ -34,3 +34,4 @@
 | Page Inject | Page Inject plugin allows you to inject the page into other pages. |[Download](https://github.com/morfy-cms/morfy-plugin-page-inject) | [Awilum](https://github.com/Awilum) |
 | Snow | Snow plugin to generate snowflake for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-snow) | [Awilum](https://github.com/Awilum) |
 | Edit Page | Edit page plugin for Morfy |[Download](https://github.com/nakome/morfy-edit-plugin) | [Nakome](https://github.com/nakome) |
+| Freedback | Freedback plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/freedback) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
