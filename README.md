@@ -35,3 +35,4 @@
 | Snow | Snow plugin to generate snowflake for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-snow) | [Awilum](https://github.com/Awilum) |
 | Edit Page | Edit page plugin for Morfy |[Download](https://github.com/nakome/morfy-edit-plugin) | [Nakome](https://github.com/nakome) |
 | Freedback | Freedback plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/freedback) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
+| Likely social share buttons | Social share buttons plugin for Morfy |[Download](https://github.com/volter9/morfy-plugin-likely/releases) | [volter9](http://volter9.github.io) |
