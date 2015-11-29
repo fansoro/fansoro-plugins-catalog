@@ -28,7 +28,7 @@
 | Qr simple | Qr simple plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/qr-simple) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Math | Math plugin for Morfy |[Download](http://www.xxwebplus.eu/plugin/math) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Spoiler | Spoiler plugin for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-spoiler) | [Awilum](https://github.com/Awilum) |
-| VideoJS | VideoJS plugin for Morfy |[Download](https://github.com/morfy-cms/morfy-plugin-videojs) | [Awilum](https://github.com/Awilum) |
+| VideoJS | VideoJS plugin for Morfy with Video.js that makes easier to work with videos. |[Download](https://github.com/morfy-cms/morfy-plugin-videojs) | [Awilum](https://github.com/Awilum) |
 | Emoji :smile: | Emoji plugin for Morfy CMS |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Google Analytics | Google Analytics plugin for Morfy |[Download](https://github.com/maxisoft-morfy-plugins/google-analytics) | [maxiCMS](https://github.com/maxicms) |
 | Page Inject | Page Inject plugin allows you to inject the page into other pages. |[Download](https://github.com/morfy-cms/morfy-plugin-page-inject) | [Awilum](https://github.com/Awilum) |
