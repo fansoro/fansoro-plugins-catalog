@@ -8,7 +8,7 @@
 | Redirect | Morfy redirect plugin provide simple redirect functionality for pages. |[Download](https://github.com/morfy-cms/morfy-plugin-redirect/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Charts | Morfy Google Charts plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-charts/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Less Compiler | Less Compiler plugin for Morfy |[Download](https://github.com/pafnuty-morfy-plugins/morfy-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
-| Disqus | Morfy Disqus Plugin. |[Download](https://github.com/morfy-cms/morfy-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
+| Disqus | Add comments in your site with Disqus comment system. |[Download](https://github.com/morfy-cms/morfy-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
 | ExtraCodes | Extra shortcodes plugin for Morfy. |[Download](https://github.com/nakome/morfy-plugins-extra) | [Nakome](https://github.com/nakome) |
 | Api | Convert pages to Json format. |[Download](https://github.com/nakome/Morfy-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
 | Asset | Asset plugin for Morfy |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-asset/releases/latest) | [pafnuty](https://github.com/pafnuty) |
