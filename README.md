@@ -38,3 +38,4 @@
 | Likely social share buttons | Social share buttons plugin for Morfy |[Download](https://github.com/volter9/morfy-plugin-likely/releases) | [volter9](http://volter9.github.io) |
 | Snowflake | Snowflake generator plugin for Morfy allow to generate snow for any element on your page. |[Download](https://github.com/morfy-cms/morfy-plugin-snowflake) | [Awilum](https://github.com/Awilum) |
 | Gallery | Make fast galleries on Morfy. |[Download](https://github.com/nakome/morfy-gallery-plugin) | [Nakome](https://github.com/nakome) |
+| Agent | The user agent plugin provides a simple way to detect the kind of device that made the request. |[Download](https://github.com/morfy-cms/morfy-plugin-agent) | [Awilum](https://github.com/Awilum) |
