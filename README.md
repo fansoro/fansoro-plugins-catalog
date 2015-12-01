@@ -40,3 +40,4 @@
 | Gallery | Make fast galleries on Morfy. |[Download](https://github.com/nakome/morfy-gallery-plugin) | [Nakome](https://github.com/nakome) |
 | Agent | The user agent plugin provides a simple way to detect the kind of device that made the request. |[Download](https://github.com/morfy-cms/morfy-plugin-agent) | [Awilum](https://github.com/Awilum) |
 | Font Awesome | Font Awesome integration for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-font-awesome) | [Awilum](https://github.com/Awilum) |
+| Pixel | Pixel plugin to create placeholder images for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-pixel) | [Awilum](https://github.com/Awilum) |
