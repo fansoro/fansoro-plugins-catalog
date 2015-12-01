@@ -41,3 +41,4 @@
 | Agent | The user agent plugin provides a simple way to detect the kind of device that made the request. |[Download](https://github.com/morfy-cms/morfy-plugin-agent) | [Awilum](https://github.com/Awilum) |
 | Font Awesome | Font Awesome integration for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-font-awesome) | [Awilum](https://github.com/Awilum) |
 | Pixel | Pixel plugin to create placeholder images for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-pixel) | [Awilum](https://github.com/Awilum) |
+| Detect | The plugin to define the different types of devices from which the user browses the site |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/releases/latest) | [pafnuty](https://github.com/pafnuty) |
