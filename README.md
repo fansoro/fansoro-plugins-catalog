@@ -43,3 +43,4 @@
 | Pixel | Pixel plugin to create placeholder images for Morfy. |[Download](https://github.com/morfy-cms/morfy-plugin-pixel) | [Awilum](https://github.com/Awilum) |
 | Detect | The plugin to define the different types of devices from which the user browses the site |[Download](https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Bacon Ipsum | The Bacon Ipsum plugin for Morfy will generate you steaming piles of glorious bacon ipsum. |[Download](https://github.com/morfy-cms/morfy-plugin-bacon-ipsum) | [Awilum](https://github.com/Awilum) |
+| Shipcart | Snipcart plugin for Morfy to create simple shopping cart on your website! |[Download](https://github.com/nakome/morfy-shipcart-plugin) | [Nakome](https://github.com/nakome) |
