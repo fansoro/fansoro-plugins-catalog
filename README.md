@@ -45,3 +45,4 @@
 | Bacon Ipsum | The Bacon Ipsum plugin for Morfy will generate you steaming piles of glorious bacon ipsum. |[Download](https://github.com/morfy-cms/morfy-plugin-bacon-ipsum) | [Awilum](https://github.com/Awilum) |
 | Shipcart | Shipcart plugin for Morfy to create simple shopping cart on your website! |[Download](https://github.com/nakome/morfy-shipcart-plugin) | [Nakome](https://github.com/nakome) |
 | TogetherJS | Add real time collaboration features to your website with Morfy TogetherJS plugin |[Download](https://github.com/nakome/morfy-togetherjs-plugin) | [Nakome](https://github.com/nakome) |
+| Tiny Url | Tiny Url plugin takes a long url and uses the TinyURL API to return a shortened version. |[Download](https://github.com/morfy-cms/morfy-plugin-tiny-url) | [Awilum](https://github.com/Awilum) |
