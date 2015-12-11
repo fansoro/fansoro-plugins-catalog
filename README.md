@@ -50,3 +50,4 @@
 | Poll | Plugin to add poll on your site. |[Download](https://github.com/nakome/morfy-poll-plugin) | [Nakome](https://github.com/nakome) |
 | Gregwar Image | The Gregwar Image plugin provide a simple object-oriented images handling and caching API with Gregwar Image Class. |[Download](https://github.com/morfy-cms/morfy-plugin-gregwar-image) | [Awilum](https://github.com/Awilum) |
 | Githubser | Another awesome plugin for Morfy that will help you to show your github profile on your website! |[Download](https://github.com/nakome/morfy-githubser-plugin) | [Nakome](https://github.com/nakome) |
+| Fluidbox | Fluidbox plugin for Morfy to create awesome lightboxes with fluid transitions like on Medium. |[Download](https://github.com/morfy-cms/morfy-plugin-fluidbox) | [Awilum](https://github.com/Awilum) |
