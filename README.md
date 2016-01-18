@@ -1,4 +1,4 @@
-# MORFY PLUGINS
+# FANSORO PLUGINS
 
 | Name | Description | Link | Author |
 | -----|-------------|-----|-----|
