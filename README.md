@@ -7,12 +7,12 @@
 | Sitemap | Sitemap plugin provide automatically generated XML sitemap for Fansoro. |[Download](https://github.com/fansoro/fansoro-plugin-sitemap/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Redirect | Fansoro redirect plugin provide simple redirect functionality for pages. |[Download](https://github.com/fansoro/fansoro-plugin-redirect/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Charts | Fansoro Google Charts plugin. |[Download](https://github.com/fansoro/fansoro-plugin-charts/releases/latest) | [Awilum](https://github.com/Awilum) |
-| Less Compiler | Less Compiler plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
+| Less Compiler | Less Compiler plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Disqus | Add comments in your site with Disqus comment system. |[Download](https://github.com/fansoro/fansoro-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
 | ExtraCodes | Extra shortcodes plugin for Fansoro. |[Download](https://github.com/nakome/fansoro-plugins-extra) | [Nakome](https://github.com/nakome) |
 | Api | Convert pages to Json format. |[Download](https://github.com/nakome/Fansoro-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
 | Asset | Asset plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-asset/releases/latest) | [pafnuty](https://github.com/pafnuty) |
-| Statistics | Statistics plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
+| Statistics | Statistics plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-fansoro/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-fansoro/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Maps | Maps plugin for Fansoro |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
