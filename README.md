@@ -1,4 +1,4 @@
-![Fansoro Plugins](fansoro-plugins.png)
+## Fansoro Plugins
 
 | Name | Description | Link | Author |
 | -----|-------------|-----|-----|
