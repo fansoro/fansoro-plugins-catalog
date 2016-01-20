@@ -1,4 +1,4 @@
-## Fansoro Plugins
+# Fansoro Plugins
 
 | Name | Description | Link | Author |
 | -----|-------------|-----|-----|
