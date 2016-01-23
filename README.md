@@ -9,12 +9,12 @@
 | Charts | Fansoro Google Charts plugin. |[Download](https://github.com/fansoro/fansoro-plugin-charts/releases/latest) | [Awilum](https://github.com/Awilum) |
 | Less Compiler | Less Compiler plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-less/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Disqus | Add comments in your site with Disqus comment system. |[Download](https://github.com/fansoro/fansoro-plugin-disqus/releases/latest) | [Awilum](https://github.com/Awilum) |
-| ExtraCodes | Extra shortcodes plugin for Fansoro. |[Download](https://github.com/nakome/fansoro-plugins-extra) | [Nakome](https://github.com/nakome) |
-| Api | Convert pages to Json format. |[Download](https://github.com/nakome/Fansoro-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
+| ExtraCodes | Extra shortcodes plugin for Fansoro. |[Download](https://github.com/nakome/morfy-plugins-extra) | [Nakome](https://github.com/nakome) |
+| Api | Convert pages to Json format. |[Download](https://github.com/nakome/morfy-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
 | Asset | Asset plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-asset/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Statistics | Statistics plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
-| Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-fansoro/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
-| Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-fansoro/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-morfy/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-morfy/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Maps | Maps plugin for Fansoro |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Reading Time | Estimated reading time plugin for Fansoro |[Download](https://github.com/fansoro/fansoro-plugin-reading-time) | [Awilum](https://github.com/Awilum) |
 | Social Meta | Social MetaTags Generator for Fansoro CMS |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-socialmeta/releases/latest) | [pafnuty](https://github.com/pafnuty) |
@@ -33,11 +33,11 @@
 | Google Analytics | Google Analytics plugin for Fansoro |[Download](https://github.com/maxisoft-fansoro-plugins/google-analytics) | [maxiCMS](https://github.com/maxicms) |
 | Page Inject | Page Inject plugin allows you to inject the page into other pages. |[Download](https://github.com/fansoro/fansoro-plugin-page-inject) | [Awilum](https://github.com/Awilum) |
 | Snow | Snow plugin to generate snowflake for Fansoro |[Download](https://github.com/fansoro/fansoro-plugin-snow) | [Awilum](https://github.com/Awilum) |
-| Edit Page | Edit page plugin for Fansoro |[Download](https://github.com/nakome/fansoro-edit-plugin) | [Nakome](https://github.com/nakome) |
+| Edit Page | Edit page plugin for Fansoro |[Download](https://github.com/nakome/morfy-edit-plugin) | [Nakome](https://github.com/nakome) |
 | Freedback | Freedback plugin for Fansoro |[Download](http://www.xxwebplus.eu/plugin/freedback) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
-| Likely social share buttons | Social share buttons plugin for Fansoro |[Download](https://github.com/volter9/fansoro-plugin-likely/releases) | [volter9](http://volter9.github.io) |
+| Likely social share buttons | Social share buttons plugin for Fansoro |[Download](https://github.com/volter9/morfy-plugin-likely/releases) | [volter9](http://volter9.github.io) |
 | Snowflake | Snowflake generator plugin for Fansoro allow to generate snow for any element on your page. |[Download](https://github.com/fansoro/fansoro-plugin-snowflake) | [Awilum](https://github.com/Awilum) |
-| Gallery | Make fast galleries on Fansoro. |[Download](https://github.com/nakome/fansoro-gallery-plugin) | [Nakome](https://github.com/nakome) |
+| Gallery | Make fast galleries on Fansoro. |[Download](https://github.com/nakome/morfy-gallery-plugin) | [Nakome](https://github.com/nakome) |
 | Agent | The user agent plugin provides a simple way to detect the kind of device that made the request. |[Download](https://github.com/fansoro/fansoro-plugin-agent) | [Awilum](https://github.com/Awilum) |
 | Font Awesome | Font Awesome integration for Fansoro. |[Download](https://github.com/fansoro/fansoro-plugin-font-awesome) | [Awilum](https://github.com/Awilum) |
 | Pixel | Pixel plugin to create placeholder images for Fansoro. |[Download](https://github.com/fansoro/fansoro-plugin-pixel) | [Awilum](https://github.com/Awilum) |
@@ -49,6 +49,6 @@
 | Snipplr | Plugin for quick embedding Snipplr snippets. |[Download](https://github.com/fansoro/fansoro-plugin-snipplr) | [Awilum](https://github.com/Awilum) |
 | Poll | Plugin to add poll on your site. |[Download](https://github.com/nakome/fansoro-poll-plugin) | [Nakome](https://github.com/nakome) |
 | Gregwar Image | The Gregwar Image plugin provide a simple object-oriented images handling and caching API with Gregwar Image Class. |[Download](https://github.com/fansoro/fansoro-plugin-gregwar-image) | [Awilum](https://github.com/Awilum) |
-| Githubser | Another awesome plugin for Fansoro that will help you to show your github profile on your website! |[Download](https://github.com/nakome/fansoro-githubser-plugin) | [Nakome](https://github.com/nakome) |
+| Githubser | Another awesome plugin for Fansoro that will help you to show your github profile on your website! |[Download](https://github.com/nakome/morfy-githubser-plugin) | [Nakome](https://github.com/nakome) |
 | Fluidbox | Fluidbox plugin for Fansoro to create awesome lightboxes with fluid transitions like on Medium. |[Download](https://github.com/fansoro/fansoro-plugin-fluidbox) | [Awilum](https://github.com/Awilum) |
-| Channel | Get your last uploads from Youtube |[Download](https://github.com/nakome/fansoro-channel-plugin) | [Nakome](https://github.com/nakome) |
+| Channel | Get your last uploads from Youtube |[Download](https://github.com/nakome/morfy-channel-plugin) | [Nakome](https://github.com/nakome) |
