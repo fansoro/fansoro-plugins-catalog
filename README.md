@@ -13,8 +13,10 @@
 | Api | Convert pages to Json format. |[Download](https://github.com/nakome/Fansoro-Api-plugin/archive/master.zip) | [Nakome](https://github.com/nakome) |
 | Asset | Asset plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-asset/releases/latest) | [pafnuty](https://github.com/pafnuty) |
 | Statistics | Statistics plugin for Fansoro |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-statistics/releases/latest) | [pafnuty](https://github.com/pafnuty) |
-| Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-morfy/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
-| Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-morfy/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Next/Previous Pagination | Next/previous pagination plugin. |[Download](https://github.com/tovic/nextprev-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Tags | Tags plugin. |[Download](https://github.com/tovic/tags-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| Breadcrumb | Breadcrumb navigation. | [Download](https://github.com/tovic/breadcrumb-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
+| `{php}` Shortcode | Re-enable the `{php}` shortcode as in the old Morfy (Fansoro) CMS version. | [Download](https://github.com/tovic/php-shortcode-plugin-for-morfy-cms/releases/latest) | [Taufik Nurrohman](http://latitudu.com) |
 | Maps | Maps plugin for Fansoro |[Download](http://www.xxwebplus.eu/plugin/maps) | [xxwebplus](http://forum.morfy.org/profile/4/xxwebplus) |
 | Reading Time | Estimated reading time plugin for Fansoro |[Download](https://github.com/fansoro/fansoro-plugin-reading-time) | [Awilum](https://github.com/Awilum) |
 | Social Meta | Social MetaTags Generator for Fansoro CMS |[Download](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-socialmeta/releases/latest) | [pafnuty](https://github.com/pafnuty) |
